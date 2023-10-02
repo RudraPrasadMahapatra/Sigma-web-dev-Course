@@ -1,2 +1,2 @@
 # Sigma-web-dev-Course
- Sourse code for sigma web dev course
+ Source code for Sigma web dev course
